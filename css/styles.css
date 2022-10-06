@@ -1,1 +1,175 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  /* background-color: #AAC4FF; */
 
+}
+
+h1{
+
+  color: #256D85;
+  font-size: 5.625rem;
+  line-height:2;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  padding-bottom: 10px;
+  color: #256D85;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3{
+  color:  #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+hr{
+  color: #B1B2FF;
+  border-style: dotted;
+  width: 5%;
+  border-width: thick;
+  border-top: 0px;
+  margin: 100px auto;
+
+}
+
+p{
+
+  line-height: 2;
+}
+
+
+.top-container{
+  background-color: #B1B2FF;
+  position: relative;
+  padding-top: 50px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+
+}
+
+
+.profilepice{
+  width: 250px;
+  height: 250px;
+}
+
+.skillimg{
+  width: 25%;
+  margin: 0px;
+  float: right;
+  margin-left  : 30px;
+
+}
+
+.skillimg2{
+  margin: 0px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+
+.contactmelogo{
+  width: 30px;
+  height: 30px;
+  margin: 10px 10px;
+
+}
+
+.contactmelogo:hover{
+  width: 40px;
+  height: 40px;
+}
+
+.footer-link{
+  text-decoration: none;
+}
+
+
+.bottom_cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+}
+
+.top_cloud{
+  width: 250px;
+  position: absolute;
+  right:300px;
+  top: 40px;
+}
+
+.name-container{
+  padding: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px;
+  text-align: left;
+
+
+}
+
+.middle-container{
+  margin: 100px 0px;
+}
+
+.bottom-container{
+
+padding: 50px 0px 20px;
+background-color:#B1B2FF;
+
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+   color:#EAF6F6;
+   font-size:0.90rem;
+   padding: 20px 0px 0px ;
+}
